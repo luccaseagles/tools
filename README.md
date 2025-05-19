@@ -6,3 +6,7 @@ capture_output
 
 Open log file in Vscode
 Command Pallete / File: Toggle Auto Save 
+
+New Featured:
+- When Return, ``` ``` (is blank) just show the command that was run
+- Ignore: ls, cd , 
