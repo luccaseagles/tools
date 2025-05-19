@@ -1,0 +1,1 @@
+Tool to capture logs so they can be viewed and written down later.
