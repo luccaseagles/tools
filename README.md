@@ -10,3 +10,4 @@ Command Pallete / File: Toggle Auto Save
 New Featured:
 - When Return, ``` ``` (is blank) just show the command that was run
 - Ignore: ls, cd , 
+- batch commands with no output?
